@@ -35,7 +35,7 @@ a {
     
     .navbar-container {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
         padding: 14px 20px;
     }
@@ -119,7 +119,7 @@ a {
     padding: 10px 20px;
     color: #FFFDD0;
     position: relative;
-    margin-left: 27%;
+   
     transition: transform 0.3s ease, color 0.3s ease;
 }
 
